@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP North Sweden
-tags: sweden chapter
+tags: sweden
 region: Europe
 
 ---
@@ -11,7 +11,7 @@ region: Europe
 Welcome to OWASP North Sweden chapter. Please join our [Meetup group](https://www.meetup.com/OWASP-North-Sweden/) to receive information about upcoming events.
 
 ## Next event
-No scheduled events.
+Events are scheduled on the [OWASP North Sweden Meetup group](https://www.meetup.com/OWASP-North-Sweden/).
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums and chapters are free and open to anyone interested in improving application security.
