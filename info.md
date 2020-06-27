@@ -1,6 +1,6 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+* Europe / Sweden
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/OWASP-North-Sweden/)
+* [#OWASPNorthSwe on twitter](https://twitter.com/OWASPNorthSwe)
