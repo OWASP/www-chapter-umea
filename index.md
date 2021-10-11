@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP North Sweden
+title: OWASP Umea, Sweden
 tags: sweden
 region: Europe
 meetup-group: OWASP-North-Sweden
