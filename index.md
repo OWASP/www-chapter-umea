@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Umea, Sweden
 tags: sweden
 region: Europe
-meetup-group: OWASP-North-Sweden
+meetup-group: OWASP-Umea-Chapter
 
 ---
 
