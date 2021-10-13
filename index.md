@@ -9,10 +9,10 @@ meetup-group: OWASP-Umea-Chapter
 ---
 
 ## Welcome
-Welcome to OWASP North Sweden chapter. Please join our [Meetup group](https://www.meetup.com/OWASP-Umea-Chapter/ ) to receive information about upcoming events.
+Welcome to OWASP Umea chapter. Please join our [Meetup group](https://www.meetup.com/OWASP-Umea-Chapter/ ) to receive information about upcoming events.
 
 ## Next event
-Events are scheduled on the [OWASP North Sweden Meetup group](https://www.meetup.com/OWASP-Umea-Chapter/).
+Events are scheduled on the [OWASP Umea Meetup group](https://www.meetup.com/OWASP-Umea-Chapter/).
 
 {% include chapter_events.html group=page.meetup-group %}
 
